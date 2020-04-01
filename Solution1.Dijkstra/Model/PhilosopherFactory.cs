@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Solution1.Hierarchy.Model
+namespace Solution1.Dijkstra.Model
 {
     public class PhilosopherFactory : AbstractPhilosopherFactory<AbstractPhilosopher<object>>
     {

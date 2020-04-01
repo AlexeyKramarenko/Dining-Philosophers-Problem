@@ -1,6 +1,6 @@
 ﻿using Shared;
 
-namespace Solution1.Hierarchy.Model
+namespace Solution1.Dijkstra.Model
 {
     public class Philosopher : AbstractPhilosopher<object>
     {

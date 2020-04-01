@@ -1,7 +1,7 @@
 ﻿using Shared;
-using Solution1.Hierarchy.Model;
+using Solution1.Dijkstra.Model;
 
-namespace Solution1.Hierarchy
+namespace Solution1.Dijkstra
 {
     class Program
     {

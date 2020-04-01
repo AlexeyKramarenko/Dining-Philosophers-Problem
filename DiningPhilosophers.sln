@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.98
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{BFE509AC-3AEB-4C47-8D27-9F8F85247766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{BFE509AC-3AEB-4C47-8D27-9F8F85247766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution1.Hierarchy", "Solution1.Hierarchy\Solution1.Hierarchy.csproj", "{9A7E4430-78C9-400C-999F-197210D98CB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution1.Dijkstra", "Solution1.Dijkstra\Solution1.Dijkstra.csproj", "{9A7E4430-78C9-400C-999F-197210D98CB8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution2.Waiter", "Solution2.Waiter\Solution2.Waiter.csproj", "{8C3BA5B0-AEEC-4991-9C59-33E13F48BD43}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution3.ChandyMisra", "Solution3.ChandyMisra\Solution3.ChandyMisra.csproj", "{B6DD8EC2-0630-4D3F-B994-31117CBF8082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadlock", "Deadlock\Deadlock.csproj", "{704DCFAF-6498-4C06-AB1D-DCE9E3383F09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B6DD8EC2-0630-4D3F-B994-31117CBF8082}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6DD8EC2-0630-4D3F-B994-31117CBF8082}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6DD8EC2-0630-4D3F-B994-31117CBF8082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704DCFAF-6498-4C06-AB1D-DCE9E3383F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704DCFAF-6498-4C06-AB1D-DCE9E3383F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704DCFAF-6498-4C06-AB1D-DCE9E3383F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704DCFAF-6498-4C06-AB1D-DCE9E3383F09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
